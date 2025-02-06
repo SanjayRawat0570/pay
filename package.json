@@ -1,0 +1,20 @@
+{
+  "name": "pay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjayRawat0570/pay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjayRawat0570/pay/issues"
+  },
+  "homepage": "https://github.com/sanjayRawat0570/pay#readme",
+  "description": ""
+}
