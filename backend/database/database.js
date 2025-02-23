@@ -9,7 +9,4 @@ const userSchema = mongoose.Schema({
     lastname : String,
 }) 
 
-const User = mongoose.model('User', userSchema);
-MediaSourceHandle.exports = {
-    User
-}
+
